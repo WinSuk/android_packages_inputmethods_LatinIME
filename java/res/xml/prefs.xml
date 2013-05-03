@@ -86,7 +86,7 @@
             android:title="@string/gesture_input"
             android:summary="@string/gesture_input_summary"
             android:persistent="true"
-            android:defaultValue="true" />
+            android:defaultValue="false" />
         <CheckBoxPreference
             android:key="pref_gesture_floating_preview_text"
             android:title="@string/gesture_floating_preview_text"
